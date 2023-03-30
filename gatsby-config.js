@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Dad Sends Sweaters`,
+    title: `Quo Vadimus Interactive`,
     author: {
-      name: `Dad Sends Sweaters`,
+      name: `Quo Vadimus Interactive`,
       summary: ``,
     },
-    description: `A completely pointless, silly blog`,
-    siteUrl: `https://dadsendssweaters.com`,
+    description: `The home of QVI, LLC.`,
+    siteUrl: `https://quovadimusinteractive.com`,
     social: {
-      twitter: `dadsendsswetrs`,
+      twitter: `quovadimusinteractive`,
     },
   },
   plugins: [

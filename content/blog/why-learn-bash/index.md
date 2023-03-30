@@ -2,7 +2,7 @@
 
 title: Why learn Bash in 2022
 date: "2022-09-29T19:14:37.121Z"
-publish: "false"
+publish: "true"
 image: "./bootcamp.jpg"
 imageAlt: "Terminal"
 tags: ['junior-engineers', 'software-engineering', 'unsolicited-advice']
